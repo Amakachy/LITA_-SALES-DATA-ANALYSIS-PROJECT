@@ -1,2 +1,3 @@
 # LITA_-SALES-DATA-ANALYSIS-PROJECT
-MY   SALES   PROJECT
+My Sales Data Project Documentation.
+
